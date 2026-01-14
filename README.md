@@ -85,8 +85,3 @@ flash/
 | Firefox 109+ | ✅ Full support |
 | Brave | ✅ Full support |
 | Opera | ✅ Full support |
-
-## License
-
-MIT
-
